@@ -1,0 +1,27 @@
+name: Rinnova link Mediapason
+
+on:
+  schedule:
+    - cron: "17 */12 * * *"   # ogni 12 ore (i token durano ~2 giorni)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rinnova:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Aggiorna i link
+        run: python scripts/rinnova_mediapason.py
+      - name: Salva la lista se cambiata
+        run: |
+          if git diff --quiet; then echo "Nessuna modifica"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898231+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Rinnova link Mediapason"
+          git push
