@@ -19,11 +19,11 @@ http://102.129.186.182:81/tv8/index.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="Nove.it@SD" tvg-logo="https://i.imgur.com/rTjIkGO.png" group-title="Nazionali",009 Nove (1080p)
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="" group-title="Locali Lombardia",010 Telelombardia
-https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/01799D67529C76C0E8C7E86A8F7ABDDEAE625C46/index.m3u8?hdnts=exp=1794067597~acl=/live/Telelombardia/hls/01799D67529C76C0E8C7E86A8F7ABDDEAE625C46/*~hmac=8846e42d4d8b7b99b098146ea938eef2b337ba3b0cc300a446b433316c98bd13
+https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/01799D67529C76C0E8C7E86A8F7ABDDEAE625C46/index.m3u8?hdnts=exp=1794068498~acl=/live/Telelombardia/hls/01799D67529C76C0E8C7E86A8F7ABDDEAE625C46/*~hmac=912c294d598093b437ed6be944905234fc8bb00f499ebfdeedfd085326b3128d
 #EXTINF:-1 tvg-chno="11" tvg-id="" group-title="Locali Lombardia",011 Antenna 3 Lombardia
-https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/E3292942396756E343C782721E4202B5F6E7E770/index.m3u8?hdnts=exp=1794067597~acl=/live/Telelombardia/hls/E3292942396756E343C782721E4202B5F6E7E770/*~hmac=93f9eee811e08caac0be0f052ab2625c30979e37b002c86dab9adcf1d5b4dacc
+https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/E3292942396756E343C782721E4202B5F6E7E770/index.m3u8?hdnts=exp=1794068499~acl=/live/Telelombardia/hls/E3292942396756E343C782721E4202B5F6E7E770/*~hmac=f4e787d58612f66cc941c86a1a9821fa44f2ab3b2932ecec9b872432120442ca
 #EXTINF:-1 tvg-chno="12" tvg-id="" group-title="Locali Lombardia",012 Top Calcio 24
-https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/1CCCD0BCA2F9C979BC0632230F8E31EAEA41562B/index.m3u8?hdnts=exp=1794067598~acl=/live/Telelombardia/hls/1CCCD0BCA2F9C979BC0632230F8E31EAEA41562B/*~hmac=df2d41b4fe49ebf3a4aeeab4f84155d2f79c1f56effe2825400d152e7b247a99
+https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/1CCCD0BCA2F9C979BC0632230F8E31EAEA41562B/index.m3u8?hdnts=exp=1794068500~acl=/live/Telelombardia/hls/1CCCD0BCA2F9C979BC0632230F8E31EAEA41562B/*~hmac=3e4ef11f07c120d93e50f349090c6a955dd4cb901f5f5bfbdc0fe7b46957b144
 #EXTINF:-1 tvg-chno="13" tvg-id="BergamoTV.it@SD" tvg-logo="https://i.imgur.com/Np3RaKv.png" group-title="Locali Lombardia",013 Bergamo TV (1080p)
 https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-id="EliveTVBrescia.it@SD" tvg-logo="https://i.imgur.com/gZxjLph.png" group-title="Locali Lombardia",014 Elive TV Brescia (720p) [Not 24/7]
@@ -125,7 +125,7 @@ https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
 #EXTINF:-1 tvg-chno="156" tvg-id="Value24TV.it@SD" tvg-logo="https://i.imgur.com/FdEyI96.png" group-title="Notizie",156 Value 24 TV
 https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
 #EXTINF:-1 tvg-chno="191" tvg-id="" group-title="Locali Lombardia",191 MilaNow
-https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/D7341CF2CDE7BBACB9385310F5669AAF89684847/index.m3u8?hdnts=exp=1794067604~acl=/live/Telelombardia/hls/D7341CF2CDE7BBACB9385310F5669AAF89684847/*~hmac=0a385559e2eeb8f450e18d14f1ed7ee5a67904cc81218a76b33e6b97a41b1bbb
+https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/D7341CF2CDE7BBACB9385310F5669AAF89684847/index.m3u8?hdnts=exp=1794068501~acl=/live/Telelombardia/hls/D7341CF2CDE7BBACB9385310F5669AAF89684847/*~hmac=365b5dfea7c5bb908b30de276878d6a60bc9b2b7f4e46b12d790c9dd87522822
 #EXTINF:-1 tvg-chno="200" tvg-id="ACISportTV.it@SD" tvg-logo="https://i.imgur.com/U8cHMOt.png" group-title="Sport",200 ACI Sport TV SD (1080p)
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-chno="201" tvg-id="CacciaePesca.it@SD" tvg-logo="https://i.imgur.com/uZr0cXB.png" group-title="Sport",201 Caccia e Pesca (720p)
